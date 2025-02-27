@@ -1,83 +1,83 @@
-**PwC Switzerland Power BI Job Simulation – Forage**  
+# **PwC Switzerland Power BI Job Simulation – Forage**
 
-### **Project Overview**  
-The **PwC Switzerland Power BI Job Simulation** was a hands-on, real-world project designed to strengthen participants' **data analytics and visualization skills**. This simulation provided an opportunity to work with **business intelligence tools**, particularly **Power BI**, to analyze complex datasets, extract meaningful insights, and create compelling data visualizations that address specific business challenges. The primary focus was on **HR analytics**, with an emphasis on **gender-related KPIs and workforce diversity analysis**.  
+## **Project Overview**
+The **PwC Switzerland Power BI Job Simulation** provided a hands-on opportunity to enhance **data analytics and visualization skills** using **Power BI**. The project focused on understanding **client data visualization needs, creating dashboards, and analyzing HR data** to uncover key workforce insights.
 
-This project required participants to assume the role of a **PwC data analyst** tasked with **helping a client analyze their workforce data** to understand the **gender balance at the executive management level**. The ultimate goal was to use data-driven insights to identify disparities and propose solutions to improve gender diversity within the organization.  
-
----
-
-### **Key Objectives**  
-1. **Develop and enhance Power BI skills** by working with **HR datasets** to create interactive and insightful dashboards.  
-2. **Analyze gender-related KPIs** to identify trends, disparities, and key factors contributing to gender imbalances at the executive level.  
-3. **Communicate findings effectively** through well-structured reports and visualizations that provide actionable insights.  
-4. **Demonstrate problem-solving and analytical thinking** by interpreting data trends and recommending data-driven strategies for improving gender diversity.  
-5. **Showcase strong written communication skills** by crafting professional and concise emails to engagement partners, summarizing key insights and recommendations.  
+A primary aspect of the project involved **examining gender-related KPIs** within HR datasets, identifying disparities in executive management, and providing data-driven recommendations to address gender balance issues. This project not only refined technical Power BI skills but also emphasized the importance of **business intelligence and effective communication** in a corporate setting.
 
 ---
 
-### **Project Execution**  
-The project was divided into several stages, each requiring the use of **Power BI, SQL, and Excel** for data analysis and visualization. Below is a breakdown of each stage:  
+## **Objectives of the Project**
+The key objectives of this job simulation were:
 
-#### **1. Understanding the Data**  
-The dataset provided in the simulation contained **HR data**, including details on employees' gender, age, tenure, position level, and other workforce-related attributes. The first step was to **explore the dataset**, clean it if necessary, and understand the key variables that influence gender diversity at the executive level.  
-
-#### **2. Data Cleaning and Preprocessing**  
-Before proceeding with the analysis, the data had to be **cleaned and structured** to ensure accuracy and consistency. The key tasks included:  
-- Handling missing values and inconsistencies in gender classifications.  
-- Standardizing job titles and position levels for accurate comparisons.  
-- Filtering out irrelevant data that could skew the analysis.  
-
-#### **3. Creating Power BI Dashboards**  
-Once the data was cleaned and structured, Power BI was used to develop **interactive dashboards** that visually represented key findings. The dashboards focused on the following aspects:  
-- **Gender Distribution Across Job Levels:** A breakdown of male and female employees at different levels within the company.  
-- **Executive Gender Balance Analysis:** A comparison of gender representation at the executive management level vs. lower levels.  
-- **Trend Analysis Over Time:** A historical analysis showing changes in gender diversity over the years.  
-- **Key Performance Indicators (KPIs):** Metrics highlighting disparities, such as the percentage of women in leadership roles and the average tenure of male vs. female employees at senior levels.  
-- **Root Cause Analysis:** Insights into factors contributing to gender imbalances, such as promotion trends and employee retention rates.  
-
-#### **4. Insight Generation and Problem-Solving**  
-Using the **visualizations and data trends**, the next step was to **interpret the findings** and draw meaningful conclusions. Key insights included:  
-- A **significant gender imbalance** at the executive management level despite a relatively balanced workforce at lower levels.  
-- Women in the organization having **longer tenures before promotion** compared to their male counterparts.  
-- A noticeable **drop-off rate for female employees** after reaching mid-management positions, indicating potential barriers to career advancement.  
-- Gender-based salary and promotion gaps that contributed to the disparities observed at senior levels.  
-
-#### **5. Crafting Actionable Recommendations**  
-Based on the analysis, a set of **recommendations** was formulated to help improve gender diversity at the executive level:  
-- Implement **mentorship and leadership programs** to support career progression for female employees.  
-- Introduce **transparent promotion criteria** to ensure equal opportunities for advancement.  
-- Conduct **bias training** for management to address potential unconscious biases in hiring and promotion decisions.  
-- Develop **retention strategies** to reduce the drop-off rate of female employees at mid-management levels.  
-
-#### **6. Communicating Findings**  
-One of the critical components of the simulation was **effective communication**. After completing the analysis, a professional and concise **email summary** was drafted for the engagement partners at PwC. The email included:  
-- A high-level summary of key findings.  
-- The most critical insights from the Power BI dashboards.  
-- Actionable recommendations based on the data.  
-- A call to action for further discussions or deeper analysis if needed.  
+1. **Develop expertise in Power BI** by creating interactive dashboards and reports.
+2. **Analyze HR data** to understand gender-related workforce trends.
+3. **Extract meaningful insights** from complex datasets to support decision-making.
+4. **Communicate findings effectively** through professional reports and presentations.
+5. **Strengthen problem-solving skills** by identifying key issues affecting workforce diversity.
 
 ---
 
-### **Skills Demonstrated**  
-By successfully completing this project, several key skills were showcased:  
-- **Data Visualization Expertise:** The ability to create insightful and interactive dashboards in **Power BI** to communicate data-driven findings effectively.  
-- **Analytical Problem-Solving:** Leveraging data to **identify key trends, diagnose issues, and propose solutions** that address real-world business challenges.  
-- **Business Intelligence & Decision-Making:** Using **HR data analytics** to help clients make informed decisions regarding workforce diversity and gender balance.  
-- **Effective Communication:** Crafting **concise and professional emails** that present key insights and recommendations clearly.  
-- **Critical Thinking & Data Storytelling:** Presenting data in a way that tells a compelling story and drives meaningful action.  
+## **Project Execution and Key Tasks**
+The project was divided into different phases, each contributing to the overall objective of delivering actionable HR analytics insights.
+
+### **1. Understanding Client Needs and Data Exploration**
+- Reviewed client requirements related to **data visualization and HR analytics**.
+- Explored **HR datasets** to understand key variables such as employee demographics, promotions, and leadership roles.
+- Cleaned and preprocessed data to remove inconsistencies and ensure accuracy.
+
+### **2. Power BI Dashboard Development**
+- Designed **interactive Power BI dashboards** to visualize **gender-related workforce KPIs**.
+- Created visuals such as **bar charts, pie charts, and trend lines** to represent gender distribution across different job levels.
+- Implemented **drill-down functionalities** for detailed analysis.
+
+### **3. Data Analysis and Gender KPI Insights**
+- Examined gender representation at **executive management levels**.
+- Identified **promotion trends and retention rates** by gender.
+- Used statistical methods to find potential root causes of gender imbalances.
+
+### **4. Business Insights and Recommendations**
+- Provided **data-driven recommendations** to improve gender diversity in leadership roles.
+- Suggested strategies such as **mentorship programs, equal opportunity policies, and targeted hiring initiatives**.
+- Communicated findings effectively through reports and professional email communications.
 
 ---
 
-### **Project Impact & Learnings**  
-The **PwC Switzerland Power BI Job Simulation** provided a **real-world experience** in working with **business intelligence tools** and solving **data-driven business challenges**. Key takeaways from the project included:  
-- **Understanding client needs** and tailoring **data visualizations** to provide relevant insights.  
-- The importance of **data accuracy** in decision-making and how data preprocessing plays a crucial role in analytical outcomes.  
-- Strengthening **Power BI skills** and learning how to use **interactive dashboards** to drive business recommendations.  
-- Gaining insights into **HR analytics and gender diversity issues**, which are increasingly relevant in today’s corporate environment.  
+## **Skills Developed**
+### **Technical Skills:**
+- **Power BI:** Dashboard creation, data modeling, and interactive visualizations.
+- **Data Analytics:** Extracting insights from HR datasets for workforce analysis.
+- **SQL & Excel:** Data cleaning, querying, and preprocessing.
+- **Data Visualization:** Presenting key metrics effectively for stakeholders.
+
+### **Analytical & Problem-Solving Skills:**
+- **HR Analytics:** Understanding workforce diversity and gender balance issues.
+- **Trend Analysis:** Identifying key workforce patterns and promotion disparities.
+- **Root Cause Analysis:** Diagnosing issues affecting executive gender diversity.
+- **Decision-Making Support:** Providing actionable insights for HR strategies.
+
+### **Soft Skills:**
+- **Communication & Stakeholder Engagement:** Professional email communication with engagement partners.
+- **Critical Thinking:** Evaluating HR policies and workforce trends.
+- **Report Writing:** Summarizing data-driven insights concisely.
 
 ---
 
-### **Conclusion**  
-The **PwC Switzerland Power BI Job Simulation** was an excellent opportunity to apply **data analytics, visualization, and business intelligence skills** in a professional setting. By analyzing HR data, identifying gender-related disparities, and presenting actionable recommendations, the project reinforced the **importance of data-driven decision-making** in business strategy. The experience gained from this simulation serves as a solid foundation for future endeavors in **data analytics, consulting, and business intelligence roles**.
+## **Project Outcomes & Learnings**
+This project helped in:
+
+1. **Enhancing Power BI proficiency** for corporate data visualization.
+2. **Understanding HR analytics and diversity metrics** in a business environment.
+3. **Applying analytical problem-solving** to real-world workforce challenges.
+4. **Developing effective communication skills** for presenting insights to stakeholders.
+5. **Strengthening decision-making abilities** based on data-driven recommendations.
+
+---
+
+## **Conclusion**
+The **PwC Switzerland Power BI Job Simulation** was a valuable experience in applying **data analytics, business intelligence, and visualization** to **HR decision-making**. The project reinforced the importance of **data-driven insights** in fostering workforce diversity and informed leadership strategies.
+
+By completing this project, I gained practical exposure to **corporate data analytics**, making it a strong foundation for future roles in **business intelligence, HR analytics, and data-driven consulting**.
+
+
 
